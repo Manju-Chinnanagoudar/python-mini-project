@@ -10,7 +10,7 @@
 
 ## 🛠️ Description
 
-This is a simple dice stimulator made using Python.
+Hello, This is a simple dice stimulator made using Python.
 
 
 ## ⚙️ Languages or Frameworks Used
