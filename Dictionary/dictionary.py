@@ -20,7 +20,7 @@ def translate(word):
         else:
             return("You have entered wrong input please enter just y or n")    
     else:
-        print("You have entered wrong keys. Try again n again")
+        print("You have entered wrong keys. Try again")
         
 
 
